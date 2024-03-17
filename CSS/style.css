@@ -1,0 +1,16 @@
+body{
+    margin: 0%;
+}
+.rodapee{
+    color: aliceblue;
+    background-color:#708090;
+ }
+
+#formulario{
+    width:1500px;
+    height:790px;
+    margin-top:1%;
+    padding: 15% 15% 16% 35% ;
+    
+    
+}
